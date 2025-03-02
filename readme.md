@@ -25,7 +25,7 @@ This repository contains an Ansible playbook to install and configure the Portai
 
 ## Playbook Details
 
-The Ansible playbook [setup_portainer_agent.yaml](http://_vscodecontentref_/1) performs the following tasks:
+The Ansible playbook [setup_portainer_agent.yaml](https://github.com/18visions/portainer_agent_automation/blob/main/ansible/setup_portainer_agent.yaml) performs the following tasks:
 
 1. Updates and installs necessary dependencies.
 2. Adds the Docker GPG key.
